@@ -11,7 +11,7 @@
 
 ## 📈 GitHub Stats
 
-![NCSmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![NCSmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncsmit&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect!
 - LinkedIn: [nicklaschristiansmit](https://www.linkedin.com/in/nicklaschristiansmit/)
