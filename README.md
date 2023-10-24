@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @NCSmit
-- 👀 I’m interested in ... App development
-- 🌱 I’m currently learning ... React-Native
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... Email
+# 👋 Hey there, I'm Nicklas!
 
-<!---
-NCSmit/NCSmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm a 22-year-old Full Stack Developer who loves to bring ideas to life through code.
+
+## 🛠️ Current Tech Stack
+
+- **Frameworks:** Next.js, React-native, Tailwind
+- **Languages:** Typescript, Javascript
+- **Database:** MongoDB, Prisma
+- **Deployment:** Vercel
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+## 📫 Let's Connect!
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/nicklaschristiansmit/)https://www.linkedin.com/in/nicklaschristiansmit/)
+- Email: ncs@takeoffcph.dk
+
+
+
