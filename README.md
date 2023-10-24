@@ -11,10 +11,10 @@
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![NCSmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/nicklaschristiansmit/)https://www.linkedin.com/in/nicklaschristiansmit/)
+- LinkedIn: [nicklaschristiansmit](https://www.linkedin.com/in/nicklaschristiansmit/)
 - Email: ncs@takeoffcph.dk
 
 
