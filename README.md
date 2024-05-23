@@ -9,10 +9,6 @@
 - **Database:** MongoDB, Prisma
 - **Deployment:** Vercel
 
-## 📈 GitHub Stats
-
-![NCSmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncsmit&show_icons=true&theme=tokyonight)
-
 ## 📫 Let's Connect!
 - LinkedIn: [nicklaschristiansmit](https://www.linkedin.com/in/nicklaschristiansmit/)
 - Email: ncs@takeoffcph.dk
