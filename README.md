@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nicklas!
 
-🚀 I'm a 22-year-old Full Stack Developer who loves to bring ideas to life through code.
+🚀 I'm a 23-year-old Full Stack Developer who loves to bring ideas to life through code.
 
 ## 🛠️ Current Tech Stack
 
